@@ -49,7 +49,7 @@ Ao testar o modelo com os dados de teste, obtive-se uma performance ainda melhor
 
 Tal sistema, em um estágio posterior de seu ciclo de vida, pode ser implantado em plataformas de nuvem e, assim, quando os dados aumentarem ainda mais, serem integrados com recursos de computação de ponta para processamento mais rápido e em tempo real das informações.
 
-## 7.0 Agradecimentos e referências
+## 7.0 Referências
 
 [1] "Diagnósticos sobre a Saúde Pública no Brasil", Agenda Mais SUS, Nov/22, [Online]. Available: https://bit.ly/3Xihd9P
 
